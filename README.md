@@ -24,7 +24,7 @@ Projeyi bilgisayarınızda çalıştırmak için işletim sisteminize uygun aşa
 
 Projeyi klonlayın ve klasöre gidin:
 
-git clone https://github.com/KULLANICI_ADINIZ/folder-flow.git
+git clone https://github.com/savascimustafaa/folder-flow.git
 cd folder-flow
 
 
@@ -48,7 +48,7 @@ python main.py
 
 Projeyi klonlayın ve klasöre gidin:
 
-git clone https://github.com/KULLANICI_ADINIZ/folder-flow.git
+git clone https://github.com/savascimustafaa/folder-flow.git
 cd folder-flow
 
 
